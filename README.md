@@ -5,9 +5,8 @@
 - 2nd year
 - finising in January 2024
 
-### Connect with me:
+### :calling: Connect with me:
 
-&nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://linkedin.com/in/florian-dunst#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://linkedin.com/in/florian-dunst#gh-dark-mode-only)
 &nbsp;&nbsp;
