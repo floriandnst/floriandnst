@@ -8,7 +8,7 @@
 ### :calling: Connect with me:
 
 <div>
- <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg"  title="Python" alt="Python" width="40" height="40"/>&nbsp;
+ <img src="D:\Dev\GitHub\floriandnst\linkedin.svg"  title="LinkedIn" alt="LinkedIn" width="40" height="40"/>&nbsp;
   <img src="https://github.com/zenPidgin/instagram_svg/blob/master/instagram.svg" title="Instagram" alt="Instagram" width="40" height="40"/>
 </div>
 
