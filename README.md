@@ -1,12 +1,13 @@
 # Hi there, I'm Florian 👋 
 
-## I'm currently in an apprenticeship as a software developer
+## :computer: I'm currently in an apprenticeship as a software developer
  
 - 2nd year
 - finising in January 2024
 
 ### :calling: Connect with me:
 
+<br>
 <br>
 
 <div>
