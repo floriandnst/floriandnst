@@ -7,7 +7,7 @@
 <br>
  
 - :scroll: 2nd year
-- :date:Expected graduation in January 2024
+- :date: Expected graduation in January 2024
 
 <br>
 
