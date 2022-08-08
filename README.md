@@ -14,7 +14,7 @@
 [![website](./img/instagram-light.svg)](https://instagram.com/flodnst#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://instagram.com/flodnst#gh-dark-mode-only)
 
-### Languages and Tools:
+### :hammer_and_wrench: Languages and Tools :
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg"  title="Python" alt="Python" width="40" height="40"/>&nbsp;
