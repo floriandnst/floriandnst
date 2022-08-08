@@ -12,7 +12,8 @@
   <img src="https://github.com/zenPidgin/instagram_svg/blob/master/instagram.svg" title="Instagram" alt="Instagram" width="40" height="40"/>
 </div>
 
-
+<br>
+<br>
 
 ### :hammer_and_wrench: Languages and Tools :
 
