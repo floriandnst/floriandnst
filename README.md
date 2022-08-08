@@ -7,11 +7,12 @@
 
 ### :calling: Connect with me:
 
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/florian-dunst#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/florian-dunst#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/flodnst#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/flodnst#gh-dark-mode-only)
+<div>
+ <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg"  title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/zenPidgin/instagram_svg/blob/master/instagram.svg" title="Instagram" alt="Instagram" width="40" height="40"/>
+</div>
+
+
 
 ### :hammer_and_wrench: Languages and Tools :
 
