@@ -5,10 +5,10 @@
 - 2nd year
 - finising in January 2024
 
-### :calling: Connect with me:
+<br>
+<br>
 
-<br>
-<br>
+### :calling: Connect with me:
 
 <div>
  <a href="https://linkedin.com/in/florian-dunst">
