@@ -1,4 +1,4 @@
-# Hi there, Florian 👋 
+# Hi there, I'm Florian 👋 
 
 ## I'm currently in an apprenticeship as a software developer
  
@@ -7,6 +7,7 @@
 
 ### Connect with me:
 
+&nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://linkedin.com/in/florian-dunst#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://linkedin.com/in/florian-dunst#gh-dark-mode-only)
 &nbsp;&nbsp;
@@ -28,7 +29,7 @@
 [<img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />][webdevplaylist]
 [<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />][webdevplaylist]
 [<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />][webdevplaylist]
-[<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/
+
 
 [instagram]: https://instagram.com/flodnst
 [linkedin]: https://linkedin.com/in/florian-dunst
