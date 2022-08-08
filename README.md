@@ -1,11 +1,14 @@
 # Hi there, I'm Florian 👋 
 
+<br>
+
 ## :computer: I'm currently in an apprenticeship as a software developer
+
+<br>
  
 - 2nd year
 - finising in January 2024
 
-<br>
 <br>
 
 ### :calling: Connect with me:
@@ -19,7 +22,6 @@
  </a>
 </div>
 
-<br>
 <br>
 
 ### :hammer_and_wrench: Languages and Tools :
