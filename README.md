@@ -20,7 +20,7 @@ Neben meiner Tätigkeit als SAP-Entwickler liebe ich es, mich privat mit Webtech
 - **Design & UI**: Figma, Material UI
 
 ### 📫 Wie man mich erreicht:
-- LinkedIn: [https://linkedin.com/in/florian-dunst]
-- GitHub: [https://github.com/floriandnst]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/florian-dunst)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/floriandnst)
 
 Ich freue mich immer über spannende Projekte, Kollaborationen und den Austausch zu Themen rund um **SAP**, **Webentwicklung** und **UX/UI-Design**. 
