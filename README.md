@@ -1,12 +1,26 @@
-# Hey, ich bin Florian 👋 
+# 👋 Hallo, ich bin Florian
 
-<br>
+### 💼 Beruflicher Hintergrund
+SAP Entwickler bei **prego services GmbH**, spezialisiert auf **SAP Utilities** und insbesondere **Energiedatenmanagement (EDM)**. Meine tägliche Arbeit konzentriert sich auf den Einsatz und die Optimierung von SAP-Lösungen für die Energiebranche.
 
-## :computer: Ausbildung zum Anwendungsentwickler
+**Technologien und Module:**
+- ABAP & ABAP OO
+- SAP UI5 & Fiori
+- S/4HANA
+- Energiedatenmanagement (EDM)
 
-<br>
- 
-- :scroll: 3. Lehrjahr
-- :date: Januar 2024 ausgelernt
+Ich arbeite regelmäßig mit **ECC**- und **S/4HANA-Systemen** und bin erfahren in der Entwicklung von kundenspezifischen Anwendungen und der Integration modernster SAP-Module.
 
-<br>
+### 🌐 Privatprojekte in der Webentwicklung
+Neben meiner Tätigkeit als SAP-Entwickler liebe ich es, mich privat mit Webtechnologien zu beschäftigen und Projekte umzusetzen, die moderne Web-Stacks nutzen.
+
+**Technologien, die ich gerne verwende:**
+- **Entwicklung mit**: Next.js, React.js, Material UI
+- **Datenbanken**: SQL, NoSQL
+- **Design & UI**: Figma, Material UI
+
+### 📫 Wie man mich erreicht:
+- LinkedIn: [https://linkedin.com/in/florian-dunst]
+- GitHub: [https://github.com/floriandnst]
+
+Ich freue mich immer über spannende Projekte, Kollaborationen und den Austausch zu Themen rund um **SAP**, **Webentwicklung** und **UX/UI-Design**. 
